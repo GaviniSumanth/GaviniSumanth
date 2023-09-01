@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-header-image](https://github.com/GaviniSumanth/GaviniSumanth/assets/100990200/d7af89d1-b8f2-4fad-8306-989e86c1966d)
 
 <!--
 **GaviniSumanth/GaviniSumanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
